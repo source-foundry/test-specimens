@@ -1,5 +1,5 @@
 
-Box element glyphs
+Block element glyphs
 ----------------------
 
 U+2580	▀	Upper half block
